@@ -1,0 +1,50 @@
+[33mcommit b6d3d0255408cdfe286894d671380a9302d1c2d1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 9b01c8b cd0276a
+Author: vijay <siripi.vijay@gmail.com>
+Date:   Wed Jan 27 15:19:14 2021 +0000
+
+    Memg the changes rge https://github.com/sbiindia/SI
+
+[33mcommit cd0276ac07b3fae636cc55a96a3ab3ac60af6e9c[m
+Author: sbiindia <54777642+sbiindia@users.noreply.github.com>
+Date:   Wed Jan 27 20:45:40 2021 +0530
+
+    Create change.txt
+
+[33mcommit 9b01c8b2980e5f2968f3333b615c618b41092173[m
+Author: vijay <siripi.vijay@gmail.com>
+Date:   Wed Jan 27 15:12:43 2021 +0000
+
+    Reverted the change Revert "fourth messgae"
+    
+    This reverts commit dc393e426f24bb9bc064597619655749a40f3406.
+
+[33mcommit dc393e426f24bb9bc064597619655749a40f3406[m[33m ([m[1;31mvijay/master[m[33m)[m
+Author: vijay <siripi.vijay@gmail.com>
+Date:   Wed Jan 27 15:08:43 2021 +0000
+
+    fourth messgae
+
+[33mcommit 319fb306995495a7fb7d41e8286d39670d72ed69[m
+Author: vijay <siripi.vijay@gmail.com>
+Date:   Wed Jan 27 15:08:13 2021 +0000
+
+    fourth messgae
+
+[33mcommit ef5c703c5ef6a48454647c46d783d9a2e3823f9f[m
+Author: vijay <siripi.vijay@gmail.com>
+Date:   Wed Jan 27 15:07:17 2021 +0000
+
+    third messgae
+
+[33mcommit 4b75b52bea2bbd15cbe3139210a2422df89638d9[m
+Author: vijay <siripi.vijay@gmail.com>
+Date:   Wed Jan 27 15:01:11 2021 +0000
+
+    Second message
+
+[33mcommit 963a34ee66c1b3b8c3dfa1a56ff39bf552edcb44[m
+Author: vijay <siripi.vijay@gmail.com>
+Date:   Tue Jan 26 11:13:11 2021 +0000
+
+    First messaage
